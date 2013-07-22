@@ -531,7 +531,8 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/Users/admin/Desktop/Table1\n";
+			shellScript = "
+";
 		};
 /* End PBXShellScriptBuildPhase section */
 
